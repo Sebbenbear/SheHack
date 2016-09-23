@@ -1,19 +1,41 @@
 {
-	"user_id": 1,
-	"description": "I am a fan of AI",
-	"school": "UNSW",
-	"degree": "Computer Science",
-	"major": "Artificial Intelligence",
-	"study_year": 2,
-	"final_year": 1,
-	"skills": [{
-		"skill": "git",
-		"level": "paid"
+	"students": [{
+		"user_id": 1,
+		"description": "I am all about design!",
+		"school": "UTS",
+		"degree": "Design",
+		"major": "Industrial Design",
+		"study_year": 3,
+		"final_year": 1,
+		"available": 1,
+		"skills": [{
+			"skill": "photoshop",
+			"level": "paid"
+		}, {
+			"skill": "illustrator",
+			"level": "practical"
+		}, {
+			"skill": "invision",
+			"level": "academic"
+		}]
 	}, {
-		"skill": "python",
-		"level": "practical"
-	}, {
-		"skill": "tensorflow",
-		"level": "academic"
+		"user_id": 2,
+		"description": "I am a fan of AI",
+		"school": "UNSW",
+		"degree": "Computer Science",
+		"major": "Artificial Intelligence",
+		"study_year": 2,
+		"final_year": 0,
+		"available": 0,
+		"skills": [{
+			"skill": "git",
+			"level": "paid"
+		}, {
+			"skill": "python",
+			"level": "practical"
+		}, {
+			"skill": "tensorflow",
+			"level": "practical"
+		}]
 	}]
 }
