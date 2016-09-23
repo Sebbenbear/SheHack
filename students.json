@@ -1,0 +1,19 @@
+{
+	"user_id": 1,
+	"description": "I am a fan of AI",
+	"school": "UNSW",
+	"degree": "Computer Science",
+	"major": "Artificial Intelligence",
+	"study_year": 2,
+	"final_year": 1,
+	"skills": [{
+		"skill": "git",
+		"level": "paid"
+	}, {
+		"skill": "python",
+		"level": "practical"
+	}, {
+		"skill": "tensorflow",
+		"level": "academic"
+	}]
+}
