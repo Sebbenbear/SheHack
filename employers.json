@@ -1,0 +1,61 @@
+{
+	"employers": [{
+		"user_id": 1,
+		"company": "invision",
+		"description": "prototyping software",
+		"roles": [{
+			"role": "ux designer",
+			"level": "graduate",
+			"available": 0,
+			"skills": [{
+				"skill": "ux"
+			}, {
+				"skill": "design"
+			}, {
+				"skill": "photoshop"
+			}]
+		}, {
+			"role": "software engineer",
+			"level": "intern",
+			"available": 1,
+			"skills": [{
+				"skill": "software engineering"
+			}]
+		}, {
+			"skill": "network engineer",
+			"level": "graduate",
+			"available": 1,
+			"skills": [{
+				"skill": "network engineering"
+			}]
+		}]
+	}, {
+		"user_id": 1,
+		"company": "telstra",
+		"description": "internet and phone provider",
+		"roles": [{
+			"skill": "network engineer",
+			"level": "graduate",
+			"available": 1,
+			"skills": [{
+				"skill": "network engineering"
+			}]
+		}, {
+			"role": "software engineer",
+			"level": "intern",
+			"available": 1,
+			"skills": [{
+				"skill": "software engineering"
+			}]
+		}, {
+			"skill": "designer",
+			"level": "graduate",
+			"available": 1,
+			"skills": [{
+				"skill": "design"
+			}, {
+				"skill": "ux"
+			}]
+		}]
+	}]
+}
